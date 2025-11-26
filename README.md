@@ -45,3 +45,10 @@ I will be uploading more projects soon, including:
 
 ## ⭐ Thank You for Checking My Project!
 I’m still learning, so feedback and suggestions are always welcome 😊
+
+
+
+#see image of my dashboard
+
+<img width="1253" height="773" alt="image" src="https://github.com/user-attachments/assets/c4d8086d-f793-4f15-a5d4-5fdae4210ec4" />
+
