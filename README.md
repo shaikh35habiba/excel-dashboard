@@ -1,9 +1,8 @@
-📊 Sales & Profit Dashboard (Excel Mini Project):-
+_**📊 Sales & Profit Dashboard (Excel Mini Project):-**_
 This is my first ever dashboard made in Microsoft Excel. I created it as a mini project for my Data Science course (1st year).
 The goal was to understand how sales and profit data can be organized, visualized, and explained using charts and pivot tables.
 
-📌 What I included in this dashboard:-
-
+_**📌 What I included in this dashboard:-**_
 ✔ Total Sales & Total Profit
 A small summary section that shows overall sales and profit.
 
@@ -39,7 +38,7 @@ Shows how many customers were active in 2023 and 2024.
 ✔ Extra Monthly Sales Chart
 A bar chart that shows sales for each month in descending order.
 
-🛠 How I made it:-
+_**🛠 How I made it:-**_
 I used:
 Excel Pivot Tables
 Pivot Charts
@@ -49,17 +48,17 @@ Basic data cleaning in Excel
 Formatting to make the dashboard look neat and organized
 This project helped me practice data cleaning, chart creation, and dashboard layout.
 
-🎯 What I learned from this project:-
+_**🎯 What I learned from this project:-**_
 How to use pivot tables for summary data
 How to build multiple charts from the same dataset
 How slicers help make dashboards interactive
 How to present business insights in a simple way
 How monthly, yearly, product-wise, and state-wise data can show different patterns
 
-📁 Files in this repository:-
+_**📁 Files in this repository:-**_
 my dashboard.xlsx – contains the dashboard, pivot tables, and raw data.
 
-👩‍🎓 About Me:-
+_**👩‍🎓 About Me:-**_
 I am a 1st-year Data Science student, and this is my first attempt at creating a dashboard.
 I will continue learning and plan to add:
 Power BI dashboards
